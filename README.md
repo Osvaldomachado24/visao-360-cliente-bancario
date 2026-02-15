@@ -1,4 +1,5 @@
 Projeto – Visão 360° do Cliente Bancário
+![Painel Visão 360 do Cliente Bancário](04_Imagem/Capturar.PNG)
 📌 Descrição
 
 Este projeto consiste na construção de uma solução analítica completa para análise de clientes bancários, risco de crédito e churn.
