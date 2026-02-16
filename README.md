@@ -86,6 +86,13 @@ Análise temporal de transações
 
 Distribuição de crédito por objetivo
 
+## 🕵️ Insights de Auditoria (Pensamento Analítico)
+Após analisar os dados, identifiquei três pontos críticos que exigem atenção imediata:
+
+1. **Risco de Evasão (Churn):** A taxa de perda de clientes está em **20%**. Isto significa que 1 em cada 5 clientes abandonou o banco, sinalizando uma crise de retenção.
+2. **Queda no Volume Transacional:** Entre 2015 e 2016, houve uma redução drástica na atividade dos clientes. O banco está a tornar-se menos relevante no dia a dia dos utilizadores.
+3. **Concentração de Crédito:** Grande parte do capital está alocada em créditos de categoria A e B. Sem clientes ativos para sustentar o fluxo, o risco de incumprimento aumenta.
+
 🚀 Próximos Passos
 
 Modelagem preditiva de churn
