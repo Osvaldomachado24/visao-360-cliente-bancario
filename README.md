@@ -93,11 +93,14 @@ Após analisar os dados, identifiquei três pontos críticos que exigem atençã
 2. **Queda no Volume Transacional:** Entre 2015 e 2016, houve uma redução drástica na atividade dos clientes. O banco está a tornar-se menos relevante no dia a dia dos utilizadores.
 3. **Concentração de Crédito:** Grande parte do capital está alocada em créditos de categoria A e B. Sem clientes ativos para sustentar o fluxo, o risco de incumprimento aumenta.
 
-🚀 Próximos Passos
+## 🚀 Próximos Passos (Roadmap de Evolução)
+Para elevar a maturidade desta análise, planeio implementar:
+* **Modelagem Preditiva de Churn:** Criar um modelo para prever quais clientes têm maior probabilidade de sair antes que o façam.
+* **Segmentação por Machine Learning:** Agrupar clientes por comportamento de gasto e risco.
+* **Automatização de Pipeline:** Integrar os dados para que o dashboard se atualize automaticamente.
 
-Modelagem preditiva de churn
 
-Segmentação por Machine Learning
-
-Automatização de pipeline
+  ## 🎯 Conclusão
+Este projeto demonstra a importância de olhar além dos gráficos. A análise sugere que a
+instituição precisa de um plano de retenção urgente para evitar a falência a longo prazo.
 
